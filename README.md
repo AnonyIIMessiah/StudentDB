@@ -31,23 +31,10 @@ JsonPowerDB is used to perform CURD operation
 
   Make a folder in your system and clone the project using git bash then open the project in Visual Studio Code or any IDE you prefer.
 
-  ##### Clone the project
-
-  ```
-  git clone https://github.com/prashant-smart/Recommendation-system.git
-  ```
-
-  After cloning
-
-  Move to **public_html** and then **script** folder and in **script.js** file replace the **connectionToken** by with your Connection Token
-
+ 
   # Sources
 
   - Introduction to JsonPowerDB - V2.0 course on https://careers.login2explore.com/
   - [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
   ***
-
-## Hope You Like the Project ❤️❤️❤️
-
-## Peace to everyone 🙏🏻
